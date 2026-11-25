@@ -148,7 +148,7 @@ activemq-data/
 
 # SageMath parsed files
 *.sage.py
-
+ticketing-platform-roadmap.md
 # Environments
 .env
 .envrc
